@@ -1,8 +1,8 @@
-# BlaBlaCar - Confirmed Data Engineer Case Study
+# Xcompany - Confirmed Data Engineer Case Study
 
-This repository contains my submition to BlaBlaCar's case study, as part of the hiring process for a Data Engineering position.
+This repository contains my submition to Xcompany's case study, as part of the hiring process for a Data Engineering position.
 
-The goal is to design and document a part of BlaBlaCar's analytics database.
+The goal is to design and document a part of Xcompany's analytics database.
 
 ---
 
